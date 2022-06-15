@@ -1,0 +1,43 @@
+body{
+        background-color:rgb(211, 222, 220);
+        margin:0 auto;text-align:center; width:960px;
+        list-style-position:inside;
+        font-family: 'Fascinate', cursive;
+       
+}
+
+p{
+    font-size: larger;
+}
+
+h1{
+    color:rgb(0, 103, 120);
+    font-style: italic;
+    font-size: 50px;
+}
+h2{
+    color:rgb(0, 103, 120);
+    font-style: italic;
+    font-size: 30px;
+}
+.d{
+    color:rgb(0, 175, 193);
+    font-style:oblique
+
+}
+h5{
+    color:rgb(0, 103, 120);
+    font-style: italic;
+    font-size: 30px;
+}
+h3{
+    
+        color:rgb(0, 103, 120);
+        font-style: italic;
+        font-size: 30px;
+
+}
+.dg{
+    color: black;
+    font-style:oblique
+}
